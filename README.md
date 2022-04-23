@@ -1,1 +1,1 @@
-# cloud-computating-solutions
+# cloud-computing-solutions
